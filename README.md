@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Tanaya Bhoyar  
 
-<!--
-**Tanaya-30/Tanaya-30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Passionate about **Software Development  | Web Development | Machine Learning**  
+💡 Always curious about **scalable systems, clean code, and AI-powered solutions**  
+🚀 Currently exploring **Java, DSA, Full-Stack Development, and Cloud Computing**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+- **Languages:** Java, Python, JavaScript, SQL  
+- **Frontend:** React.js, HTML5, CSS3 
+- **Backend:** Node.js, Express, FastAPI  
+- **Databases:** MySQL,  Firestore  
+- **Other Tools:** Git, GitHub 
+
+---
+
+## 📌 Featured Projects  
+🔹 [Resume Shortlisting System](#) – Candidate profile management with React + Node.js  
+🔹 [ML URL Blocker Chrome Extension](#) – Extension using FastAPI backend  
+🔹 [Crime Report Management System](#) – Web app for reporting & tracking crimes securely
+
+---
+
+## 📊 GitHub Stats  
+![Tanaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌐 Connect with Me  
+- [LinkedIn](www.linkedin.com/in/tanaya-bhoyar-4510a132a)  
+- 📧 Email: tanubhoyar3@gmail.com  
+
+✨ _“Code is like humor. When you have to explain it, it’s bad.”_  
